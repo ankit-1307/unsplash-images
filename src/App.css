@@ -289,7 +289,7 @@ body {
 .dark-theme {
     background-color: var(--dark-mode-bg-color);
     color: var(--dark-mode-text-color);
-    --textColor: #fff;
+    /* --textColor: #fff; */
 }
 .search-input {
     border-color: var(--grey-300);
